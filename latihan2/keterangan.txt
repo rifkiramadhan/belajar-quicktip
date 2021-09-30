@@ -1,0 +1,20 @@
+---- Keterangan Latihan 2 ----
+
+1. Pengertian
+   - Favicon
+     - Adalah sebuah icon kecil yang biasanya muncul diatas tab browser yang biasanya gambarnya merupakan sebuah logo dari website
+     - Berfungsi untuk menandai tab pada website
+     - favicon.ico
+       - Diperuntukan untuk membuat sebuah icon, biasanya file icon ini berukuran 16 x 16 & 32 x 32
+       - Jadi file ico ini adalah sebuah file yang dapat menyimpan lebih dari satu gambar, jadi misalkan kita punya sebuah file yang 
+         bernama favicon.ico yang di dalamnya menyimpan beberapa gambar yang ekstensinya .png, ada yang 16 x 16, 32 x 32, dan berapapun
+         kali berapapun, jadi satu file dapat berisi banyak gambar
+       - Agar website kita dapat memiliki favicon ini, sebetulnya caranya mudah sekali kita cukup menyimpan file ico kita di dalam root dari
+         web server kita, jadi misalkan ketika kita sudah memiliki sebuah website yang di simpan ke dalam web server maka caranya tinggal
+         dicopykan saja file favicon ini ke dalam web server
+       - Tetapi tidak berlaku untuk website yang disimpan di local atau dalam sub-domain
+       - Jika ingin menampilkan icon ke dalam local server maka kita harus menambahkan sebuah tag link icon baru di bagian head dari websitenya
+         - <link rel="shortcut icon" href="favicon.ico">
+   - Layanan Untuk Merubah File Gambar Menjadi Favicon
+     - https://favicomatic.com/
+     - https://realfavicongenerator.net/

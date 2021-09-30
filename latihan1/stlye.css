@@ -1,0 +1,15 @@
+/* 
+ * Ketika ada elemen yang id nya P1 lalu dia di target di URI nya / address bar nya
+ * Maka ubah warna backgroundnya jadi salmon
+ */
+.p1:target {
+    background-color: salmon;
+}
+
+.p2:target {
+    background-color: lightgreen;
+}
+
+.p3:target {
+    background-color: royalblue;
+}

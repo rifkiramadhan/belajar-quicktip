@@ -1,0 +1,28 @@
+---- Keterangan Latihan 3 ----
+
+1. Pengertian
+   - Parallax Effect
+     - Sebuah efek atau fenomena hasil dari perspektif pada ruang 3 dimensi ketika diberi pergerakan
+   - Fixed Background Scrolling Body
+     - Jadi ada background yang diam lalu body atau halaman websitenya dia bergerak
+   - Landing Elements
+     - Jadi ketika websitenya dibuka maka akan ada element-element yang muncul dengan animasi ketika di scroll kebawah
+   - Slow Elements
+     - Mirip dengan fix background tapi sekarang kita bisa melihat kecepatan antar elementnya berbeda jika di scroll, jadi
+       background websitenya ketika di scroll bergerak tapi dengan kecepatan yang berbeda
+   - Jib Effect (Drone Effect)
+     - Adalah teknik yang biasa digunakan dunia videografi dimana kameranya biasanya ditempelkan pada sebuah sistem seperti katrol
+       yang memungkinkan si cameranya bergerak dari bawah ke atas atau sebaliknya, biasanya untuk memunculkan sebuah object jika
+       di scroll maka ada banyak element yang bergerak dengan kecepatan yang berbeda
+     - Jadi ini memunculkan element yang ada dibelakangnya tapi menggunakan teknik parallax
+   - Zoom Effect
+     - Banyak element-element yang bergerak dengan kecepatan yang berbeda sehingga membuat background pada websitenya seakan ngezoom / membesar
+       / mengecil ketika di scroll
+   - Mouse Movement
+     - Dimana effectnya terjadi ketika kita menggerakkan mouse
+   - Horizontal Scrolling
+     - Ini parallax effectnya menyerupai parallax yang kita alami di kehidupan sehari-hari, dimana kita bergeraknya secara Horizontal dan bergerak
+       dengan kecepatan yang berbeda
+   - Fungsi Scrolling
+     - Adalah sebuah event handler dia menangani sebuah event ketika kita scroll halamannya, jadi ketika kita scroll halamannya, maka fungsi scroll ini
+       berjalan

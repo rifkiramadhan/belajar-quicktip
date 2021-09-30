@@ -1,0 +1,13 @@
+---- Keterangan Latihan 1 ----
+
+1. Pengertian
+   - :target
+     - Sebuah pseudo-class yang merepresentasikan sebuah elemen unik dengan id yang sama dengan identifier URI
+       (Uniform Resource Identifier)
+       - URI
+         - Adalah tulisan yang dituliskan didalam address bar pada websit, dan sebuah #about di belakang tulisan 
+           website itu disebut sebagai Pengalan Identifier, yang biasanya digunakan untuk link
+     - Jadi pseudo class :target itu memanfaatkan Pengalan identifier yang ada di atribut judul di tag link pada website
+     - Jadi maksudnya target adalah elemen apapun yang id nya di target melalui URL maka CSS nya akan aktif
+     - Dengan menggunakan id itu pemanggilan CSS nya sedikit lebih berat, maka ada baiknya id diganti dengan class tetapi
+       link href nya harus tetap singkron pada target setiap id nya
